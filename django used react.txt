@@ -1,0 +1,45 @@
+  step 1 open pypi.org
+  
+ step 2 search  mkvirtualenv
+ then select virtualenvwrapper-win 1.2.7 
+ copy= "pip install virtualenvwrapper-win" 
+ and paste terminal in vs code .
+ 
+ 
+ #command
+ create envir-     mkvirtualenv rootenv
+ deactive -        deactive
+ restart env -     workon rootenv
+ 
+ 
+ next -
+ step 3 -          pip install django
+ 
+ project name ->   django-admin startproject djangoauthapi1
+ 
+ then open project 
+ terminal - >     python manage.py startapp root   
+                      (App Name)
+
+this app Name copy and paste setting.py file 
+
+
+then run --   	python manage.py runserver			  
+ 
+ 
+ close
+ 
+ 
+ search on google drf django rest framwork 
+ 
+ drf-                  pip install djangorestframework
+ 
+ 
+ then create tokan 
+ 
+ search django simple jwt
+ 
+ pip install djangorestframework-simplejwt
+ 
+ 
+ =====15 min    https://www.youtube.com/watch?v=lo7lBD9ynVc
